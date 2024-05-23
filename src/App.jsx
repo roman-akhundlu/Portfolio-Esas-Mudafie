@@ -3,8 +3,12 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Picture from './components/Picture'
 import Trusted from './components/Trusted'
+import Roman from 'swiper'
 
-// import 'bootstrap/dist/css/bootstrap.min.css'
+
+
+
+
 
 
 
@@ -15,6 +19,7 @@ function App() {
  <Navbar/>
  <Picture/>
  <Trusted/>
+ <Roman/>
  
     </>
   )
